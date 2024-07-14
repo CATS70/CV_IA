@@ -1,0 +1,833 @@
+Avec quel outil avez-vous intégré le site d'Exaprint ?	Intégration du site avec avec Critéo
+Avec quels systèmes de gestion de bases de données avez-vous travaillé ?	PostgresSQL, MySQL
+Avez-vous de l'expérience avec la virtualisation ?	VM WARE
+Avez-vous de l'expérience avec les environnements virtualisés ?	VM WARE
+Avez-vous de l'expérience avec les méthodes agiles ?	scrum
+Avez-vous de l'expérience avec les méthodologies agiles ?	scrum
+Avez-vous de l'expérience avec les outils de marketing automation ?	Selligent
+Avez-vous déjà géré des équipes internationales ?	Encadrement d'une équipe internationale : France, USA et Inde
+Avez-vous participé au marathon de Nice-Cannes ?	Nice-Cannes
+Combien de marathons différents avez-vous courus selon votre CV ?	4
+Combien de personnes gériez-vous en tant que Manager SI ?	10 personnes
+Combien de personnes gériez-vous en tant que Manager SI chez Bureau Veritas ?	10 personnes
+Combien de temps avez-vous travaillé comme conseiller immobilier ?	De juin 2016 à février 2022
+Comment décririez-vous votre approche du service client ?	Sens du service
+Comment décririez-vous votre autonomie au travail ?	Autonome Organiser son travail selon les priorités et les objectifs
+Comment décririez-vous votre capacité d'innovation au travail ?	Force de proposition Curieux
+Comment décririez-vous votre sens des responsabilités ?	Respecter ses engagements, assumer ses responsabilités
+Comment évalueriez-vous vos capacités en anglais ?	Anglais niveau B2
+Dans quelle école allez-vous étudier l'année prochaine ?	EPSI Montpellier
+Dans quelle école allez-vous suivre votre formation en IA ?	EPSI Montpellier
+De quelle université avez-vous obtenu votre DESS ?	Paris IX - Dauphine
+En quelle année avez-vous obtenu votre DESS ?	1994
+Êtes-vous prêt à travailler dans d'autres villes ?	Pour les autres viles, mêmes eloignées (par exemple Paris, Lyon, Marseille, ...) cela sera sous conditions.
+Où allez-vous étudier le développement en IA à partir de septembre 2024 ?	EPSI Montpellier
+Où avez-vous travaillé pour la dernière fois dans le secteur informatique ?	Exaprint, Montpellier
+Où peut-on consulter votre projet personnel ?	http://cfelix.freeboxos.fr
+Où peut-on consulter votre projet personnel Art-Please ?	http://cfelix.freeboxos.fr
+Où peut-on trouver votre code sur GitHub ?	https://github.com/CATS70
+Possédez-vous un véhicule personnel ?	Oui
+Pour quelle entreprise avez-vous travaillé en tant que conseiller en gestion de patrimoine ?	Valority
+Pour quelle entreprise avez-vous travaillé en tant que conseiller immobilier ?	proprietes-privees.com
+Pour quelle zone géographique étiez-vous responsable en tant que Manager SI ?	zone France
+Pour quelle zone géographique étiez-vous responsable en tant que Manager SI ?	zone France
+Pouvez-vous décrire votre projet personnel en lien avec l'art ?	Art-Please - L'art à portée de téléphone
+Quel a été le principal résultat de votre travail en tant que DSI ?	Disponibilité du SI >99 % (24/7/365)
+Quel autre centre d'intérêt, hormis la musique et le marathon, est mentionné dans votre CV ?	Cinéma
+Quel budget gériez-vous en tant que DSI ?	Budget DSI : 1 M€
+Quel cours en intelligence artificielle êtes-vous en train de suivre ?	MOOC CS50's Introduction to Artificial Intelligence with Python
+Quel diplôme allez-vous préparer à partir de septembre 2024 ?	Bachelor Développeur IA
+Quel environnement technique avez-vous utilisé chez Inexware ?	Environnement Java et J2E IBM Websphere
+Quel est le domaine de spécialisation de votre DESS ?	Gestion de la Technologie et de l'Innovation
+Quel est le nom de votre projet personnel lié à l'art ?	Art-Please
+Quel est le nom de votre projet personnel mentionné dans votre CV ?	Art-Please
+Quel est votre âge ?	54 ans
+Quel est votre diplôme le plus élevé actuellement ?	DESS Gestion de la Technologie et de l'Innovation
+Quel est votre lieu de résidence actuel ?	Montpellier
+Quel est votre niveau d'anglais ?	Anglais niveau B2
+Quel est votre niveau de compétence en Python ?	notions
+Quel est votre niveau de maîtrise de la langue anglaise ?	Anglais niveau B2
+Quel est votre niveau en Python ?	notions
+Quel est votre numéro de téléphone ?	06 51 23 36 97
+Quel est votre objectif professionnel actuel ?	Développeur en Intelligence Artificielle - Alternant
+Quel est votre plus haut niveau d'études ?	DESS Gestion de la Technologie et de l'Innovation
+Quel est votre plus haut niveau d'études actuel ?	DESS Gestion de la Technologie et de l'Innovation
+Quel est votre profil GitHub ?	https://github.com/CATS70
+Quel est votre profil LinkedIn ?	https://www.linkedin.com/in/cfelixdevia/
+Quel est votre projet personnel mentionné dans le CV ?	Art-Please - L'art à portée de téléphone
+Quel était le budget que vous gériez en tant que DSI ?	Budget DSI : 1 M€
+Quel était le chiffre d'affaires de l'entreprise où vous étiez DSI ?	CA : 75 M€
+Quel était le nom de l'entreprise où vous avez travaillé comme conseiller immobilier ?	proprietes-privees.com
+Quel était le secteur d'activité d'Exaprint ?	leader français de l'impression en ligne pour professionnels
+Quel était le secteur d'activité d'Exaprint ?	leader français de l'impression en ligne pour professionnels
+Quel était votre dernier poste dans le domaine de l'IT ?	DSI
+Quel marathon avez-vous couru à Paris ?	Paris
+Quel MOOC suivez-vous actuellement en IA ?	MOOC CS50's Introduction to Artificial Intelligence with Python
+Quel outil de qualité de code connaissez-vous ?	SonarQube
+Quel poste occupiez-vous chez Valority ?	Conseiller en gestion de patrimoine
+Quel programme d'études en IA suivez-vous en ce moment ?	MOOC CS50's Introduction to Artificial Intelligence with Python
+Quel projet avez-vous dirigé chez Bureau Veritas ?	Création et maintenance de l'extranet du Groupe
+Quel projet avez-vous dirigé en tant que Directeur Projet chez Bureau Veritas ?	Création et maintenance de l'extranet du Groupe
+Quel projet avez-vous réalisé en tant que Chef de projet chez Inexware ?	Site internet FcpNet de la BDPME
+Quel projet international avez-vous dirigé chez Bureau Veritas ?	Création et maintenance de l'extranet du Groupe
+Quel projet personnel avez-vous développé ?	Art-Please - L'art à portée de téléphone
+Quel résultat avez-vous obtenu en termes de disponibilité du SI chez Exaprint ?	Disponibilité du SI >99 % (24/7/365)
+Quel résultat avez-vous obtenu en termes de disponibilité du SI chez Exaprint ?	Disponibilité du SI >99 % (24/7/365)
+Quel type d'audit avez-vous réalisé pour le site marchand d'Exaprint ?	Audit de performance du site marchand
+Quel type d'audit avez-vous réalisé pour le site marchand d'Exaprint ?	Audit de performance du site marchand
+Quel type de maintenance effectuiez-vous en tant que Manager SI ?	maintenance évolutive et corrective
+Quel type de maintenance effectuiez-vous en tant que Manager SI ?	maintenance évolutive et corrective
+Quel type de permis de conduire possédez-vous ?	Permis B
+Quel type de poste recherchez-vous actuellement ?	Développeur en Intelligence Artificielle - Alternant
+Quelle a été la durée de votre expérience en tant que conseiller immobilier ?	De juin 2016 à février 2022
+Quelle a été la durée de votre expérience en tant que Directeur Projet ?	De juin 2002 à avril 2005
+Quelle a été la durée de votre expérience en tant que DSI ?	De septembre 2014 à février 2016
+Quelle a été votre dernière expérience professionnelle avant de vous orienter vers l'IA ?	Conseiller en gestion de patrimoine De mars 2022 à février 2024 Valority, Montpellier
+Quelle a été votre expérience en tant que Chef de projet ?	Chef de projet D'avril 2001 à mai 2002 Inexware, Paris
+Quelle a été votre expérience en tant que Directeur de Projet ?	Directeur Projet De juin 2002 à avril 2005 Bureau Veritas, Paris
+Quelle a été votre expérience la plus longue en tant que manager ?	Manager SI De mai 2005 à mars 2014 Bureau Veritas, Lyon
+Quelle a été votre plus longue expérience en tant que manager dans l'IT ?	Manager SI De mai 2005 à mars 2014 Bureau Veritas, Lyon
+Quelle a été votre plus longue expérience en tant que manager dans l'IT ?	Manager SI De mai 2005 à mars 2014 Bureau Veritas, Lyon
+Quelle a été votre première expérience en tant que chef de projet ?	Chef de projet D'avril 2001 à mai 2002 Inexware, Paris
+Quelle a été votre première expérience entrepreneuriale ?	Co-fondateur D'octobre 1996 à mars 2001 Modulosoft, puis Isysoft, Paris
+Quelle est la durée de votre expérience entrepreneuriale ?	D'octobre 1996 à mars 2001
+Quelle est la durée du MOOC en IA que vous suivez ?	De mai 2024 à juillet 2024
+Quelle est la durée prévue de votre formation en développement IA ?	De septembre 2024 à juin 2025
+Quelle est la durée prévue de votre formation en IA à l'EPSI ?	De septembre 2024 à juin 2025
+Quelle est la durée totale de votre expérience entrepreneuriale ?	D'octobre 1996 à mars 2001
+Quelle est la nature de votre projet personnel lié à l'art ?	L'art à portée de téléphone
+Quelle est votre adresse email ?	felix.christophe@yahoo.fr
+Quelle est votre adresse email professionnelle ?	felix.christophe@yahoo.fr
+Quelle est votre aisance en anglais ?	Anglais niveau B2
+Quelle est votre ambition professionnelle pour cette nouvelle étape de votre carrière ?	Développeur en Intelligence Artificielle - Alternant
+Quelle est votre attitude face aux défis professionnels ?	Résilience Persévérant
+Quelle est votre capacité de réaction face aux situations professionnelles ?	Réactif
+Quelle est votre cible professionnelle à court terme ?	Développeur en Intelligence Artificielle - Alternant
+Quelle est votre compétence linguistique en anglais ?	Anglais niveau B2
+Quelle est votre expérience avec les outils de qualité de code ?	SonarQube
+Quelle est votre expérience avec les outils ETL ?	Datastage
+Quelle est votre expérience avec MySQL ?	MySQL
+Quelle est votre expérience dans le domaine de l'immobilier ?	Conseiller Immobilier Indépendant De juin 2016 à février 2022 proprietes-privees.com, Montpellier
+Quelle est votre expérience en gestion d'équipe ?	Management d'une équipe de 10 personnes (dont 2 à Bordeaux)
+Quelle est votre expérience en gestion de projet international ?	Directeur Projet De juin 2002 à avril 2005 Bureau Veritas, Paris
+Quelle est votre expérience en tant que chef de projet ?	Chef de projet D'avril 2001 à mai 2002 Inexware, Paris
+Quelle est votre expérience en tant que DSI ?	DSI De septembre 2014 à février 2016 Exaprint, Montpellier
+Quelle est votre expérience la plus récente en dehors du domaine informatique ?	Conseiller en gestion de patrimoine De mars 2022 à février 2024 Valority, Montpellier
+Quelle est votre expérience la plus récente en gestion de patrimoine ?	Conseiller en gestion de patrimoine De mars 2022 à février 2024 Valority, Montpellier
+Quelle est votre expérience la plus récente en tant que DSI ?	DSI De septembre 2014 à février 2016 Exaprint, Montpellier
+Quelle est votre expérience professionnelle la plus récente en informatique ?	DSI de septembre 2014 à février 2016
+Quelle est votre formation actuelle en intelligence artificielle ?	MOOC CS50's Introduction to Artificial Intelligence with Python
+Quelle est votre formation initiale ?	DESS Gestion de la Technologie et de l'Innovation
+Quelle est votre formation prévue pour l'année académique 2024-2025 ?	Bachelor Développeur IA
+Quelle est votre modalité de travail préférée ?	Télétravail ou présentiel
+Quelle est votre nationalité ?	Français
+Quelle est votre zone géographique de travail préférée ?	Montpellier, Nîmes, Sète, Les Matelles
+Quelle était l'envergure de l'infrastructure IT que vous supervisiez en tant que DSI ?	60 serveurs (ESX) et 50 To de stockage
+Quelle était l'étendue de votre supervision IT en tant que DSI ?	Supervision IT des filiales (UK, ES, IT)
+Quelle était la composition de l'équipe internationale que vous avez encadrée chez Bureau Veritas ?	France, USA et Inde
+Quelle était la durée de votre poste de Manager SI chez Bureau Veritas ?	De mai 2005 à mars 2014
+Quelle était la durée de votre poste de Manager SI chez Bureau Veritas ?	De mai 2005 à mars 2014
+Quelle était la nature de votre poste chez Bureau Veritas à Lyon ?	Manager SI
+Quelle était la nature de votre poste chez Bureau Veritas à Lyon ?	Manager SI
+Quelle était la nature du projet que vous avez dirigé chez Bureau Veritas ?	Création et maintenance de l'extranet du Groupe
+Quelle était la taille de l'entreprise où vous étiez DSI ?	Effectif : 120 pers. en France
+Quelle était la taille de l'équipe que vous gériez en tant que DSI ?	10 personnes
+Quelle était la taille de l'équipe que vous gériez en tant que DSI ?	10 personnes (dont 2 à Bordeaux)
+Quelle était votre position la plus récente dans une entreprise technologique ?	DSI
+Quelle était votre profession avant votre reconversion dans l'IA ?	Conseiller en gestion de patrimoine
+Quelle était votre responsabilité principale en tant que Manager SI ?	en charge de la maintenance évolutive et corrective des applications de la zone France
+Quelle était votre responsabilité principale en tant que Manager SI chez Bureau Veritas ?	Pilotage d'une équipe de 10 personnes, en charge de la maintenance évolutive et corrective des applications de la zone France
+Quelle fonction occupiez-vous lors de votre dernière expérience en informatique ?	DSI
+Quelle formation en IA allez-vous suivre à partir de septembre 2024 ?	Bachelor Développeur IA
+Quelle formation en IA allez-vous suivre prochainement ?	Bachelor Développeur IA
+Quelle formation en IA prévoyez-vous de suivre en 2024-2025 ?	Bachelor Développeur IA
+Quelle formation en IA suivez-vous actuellement ?	MOOC CS50's Introduction to Artificial Intelligence with Python
+Quelle formation suivez-vous pour vous spécialiser en IA ?	MOOC CS50's Introduction to Artificial Intelligence with Python
+Quelle infrastructure gériez-vous en tant que DSI ?	infrastructure virtualisée de 60 serveurs (ESX) et 50 To de stockage
+Quelle réalisation avez-vous effectuée concernant l'application mobile d'Exaprint ?	Nouvelle version multilingue de l'application mobile Exaprint
+Quelle réalisation avez-vous effectuée concernant l'application mobile d'Exaprint ?	Nouvelle version multilingue de l'application mobile Exaprint
+Quelle université propose le MOOC en IA que vous suivez ?	Harvard Cambridge, MA, USA
+Quelle université propose le MOOC que vous suivez en IA ?	Harvard Cambridge, MA, USA
+Quelle université vous a délivré votre DESS ?	Paris IX - Dauphine
+Quelles méthodologies de développement connaissez-vous ?	cycle en V, scrum
+Quelles ont été vos principales réalisations en tant que DSI ?	Nouvelle version multilingue de l'application mobile Exaprint Audit de performance du site marchand Audit de faisabilité d'une architecture Haute Disponibilité Intégration du site avec avec Critéo
+Quelles sont vos compétences en bases de données ?	PostgresSQL, MySQL
+Quelles sont vos compétences en langages de programmation ?	Python (notions), PHP, java, javascript
+Quelles sont vos compétences techniques en programmation ?	Python (notions), PHP, java, javascript
+Quelles sont vos qualités en matière d'organisation ?	Organiser son travail selon les priorités et les objectifs Rigoureux
+Quelles sont vos qualités en matière de travail d'équipe ?	Travailler en équipe Être à l'écoute, faire preuve d'empathie
+Quels genres musicaux appréciez-vous d'après votre CV ?	Classique, Jazz, Heavy Metal/Hard-Rock
+Quels langages de programmation maîtrisez-vous ?	Python (notions), PHP, java, javascript
+Quels marathons avez-vous courus ?	Montpellier, Paris, Nice-Cannes, Lyon
+Quels outils d'intégration continue connaissez-vous ?	Le CV ne mentionne pas explicitement d'outils d'intégration continue
+Quels pays étaient représentés dans l'équipe internationale que vous avez encadrée chez Bureau Veritas ?	France, USA et Inde
+Quels sont vos atouts professionnels ?	Travailler en équipe Être à l'écoute, faire preuve d'empathie Autonome Organiser son travail selon les priorités et les objectifs Rigoureux Résilience Sens du service Force de proposition Curieux Respecter ses engagements, assumer ses responsabilités Persévérant Réactif
+Quels sont vos centres d'intérêt mentionnés dans votre CV ?	Cinéma, Marathon, Musique
+Quels sont vos genres de musique préférés ?	Classique, Jazz, Heavy Metal/Hard-Rock
+Quels sont vos genres musicaux préférés ?	Classique, Jazz, Heavy Metal/Hard-Rock
+Quels sont vos hobbies d'après votre CV ?	Cinéma, Marathon, Musique
+Quels sports pratiquez-vous selon votre CV ?	Marathon
+Quels systèmes d'exploitation maîtrisez-vous ?	MacOs, Windows, Linux
+Quels types de projets avez-vous réalisés en tant que co-fondateur ?	Création du logiciel SILVI, refactoring logiciel TOMLO, création sites e-commerce
+Sur quel type de projet avez-vous travaillé chez Inexware ?	Site internet FcpNet de la BDPME
+Vers quel domaine souhaitez-vous vous orienter professionnellement ?	Intelligence Artificielle
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

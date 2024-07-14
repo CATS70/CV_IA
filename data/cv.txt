@@ -1,0 +1,112 @@
+Prénom: Christophe 
+NOM: FELIX 
+
+Poste recherché : Développeur en Intelligence Artificielle - Alternant 
+
+Présentation : Professionnel dans l'IT pendant 20 ans, j'ai acquis de solides compétences dans le 
+développement, la gestion de projets et le travail d'équipe. Je souhaite intégrer une entreprise 
+qui a l'ambition d'exploiter la puissance de l'IA en l'intégrant dans ses outils ou ses process de 
+production. 
+
+email : felix.christophe@yahoo.fr 
+Lieu de résidence : Montpellier 
+Age : 54 ans 
+Nationalité : Français 
+Modalité de travail : Télétravail ou présentiel 
+Type de permis de conduire :Permis B 
+Véhicule personnel : Oui
+J'accepte de travailler sur une zone géographique délimitée par Montpellier, Nîmes, Sète, Les Matelles. Pour les autres viles, mêmes eloignées (par exemple Paris, Lyon, Marseille, ...) cela sera sous conditions. 
+Tél : 06 51 23 36 97 
+Langues étrangères: Anglais niveau B2 
+Mes atouts sont les suivant: 
+Travailler en équipe 
+Être à l'écoute, faire preuve d'empathie 
+Autonome 
+Organiser son travail selon les priorités et les objectifs 
+Rigoureux 
+Résilience 
+Sens du service 
+Force de proposition 
+Curieux 
+Respecter ses engagements, assumer ses responsabilités 
+Persévérant 
+Réactif 
+
+Centres d'intérêt : Cinéma, Marathon (Montpellier, Paris, Nice-Cannes, Lyon), Musique (Classique, Jazz, Heavy Metal/Hard-Rock)
+
+Adresse de mes réseaux sociaux :
+Linkedin : https://www.linkedin.com/in/cfelixdevia/ 
+github : https://github.com/CATS70
+
+Projet personnel : Art-Please - L'art à portée de téléphone (consultable sur http://cfelix.freeboxos.fr)
+
+Compétences techniques :
+Langage: Python (notions), PHP, java, javascript 
+Base de données : PostgresSQL, MySQL 
+Autres : Datastage, SonarQube, VM WARE, cycle en V, scrum, Selligent, MacOs, Windows, Linux 
+
+Diplômes et Formations :
+MOOC CS50's Introduction to Artificial Intelligence with Python 
+De mai 2024à juillet 2024
+Harvard Cambridge, MA, USA 
+
+Bachelor Développeur IA 
+De septembre 2024 à juin 2025 
+EPSI Montpellier 
+
+DESS Gestion de la Technologie et de l'Innovation 
+1994 
+Paris IX - Dauphine Paris 
+
+
+Expériences informatiques : 
+
+DSI 
+De septembre 2014 à février 2016 
+Exaprint, Montpellier 
+leader français de l'impression en ligne pour professionnels 
+Effectif : 120 pers. en France - CA : 75 M€ - Budget DSI : 1 M€ 
+Management d'une équipe de 10 personnes (dont 2 à Bordeaux) 
+Supervision IT des filiales (UK, ES, IT) 
+Gestion d'une infrastructure virtualisée de 60 serveurs (ESX) et 50 To de stockage 
+Résultats: 
+Disponibilité du SI >99 % (24/7/365) 
+Sécurisation du SI 
+Intégration du SI CIMPRESS en 4 semaines 
+Réalisations: 
+Nouvelle version multilingue de l'application mobile Exaprint 
+Audit de performance du site marchand 
+Audit de faisabilité d'une architecture Haute Disponibilité 
+Intégration du site avec avec Critéo
+
+Manager SI 
+De mai 2005 à mars 2014 
+Bureau Veritas, Lyon 
+Pilotage d'une équipe de 10 personnes, en charge de la maintenance évolutive et 
+corrective des applications de la zone France. 
+
+Directeur Projet 
+De juin 2002 à avril 2005 
+Bureau Veritas, Paris 
+Encadrement d'une équipe internationale : France, USA et Inde. Création et maintenance 
+de l'extranet du Groupe 
+
+Chef de projet 
+D'avril 2001 à mai 2002 
+Inexware, Paris 
+Environnement Java et J2E IBM Websphere. Site internet FcpNet de la BDPME. 
+
+Co-fondateur 
+D'octobre 1996 à mars 2001 
+Modulosoft, puis Isysoft, Paris 
+Création du logiciel SILVI, refactoring logiciel TOMLO, création sites e-commerce 
+
+Autres expériences: 
+
+Conseiller en gestion de patrimoine 
+De mars 2022 à février 2024 
+Valority, Montpellier 
+
+Conseiller Immobilier Indépendant 
+De juin 2016 à février 2022 
+proprietes-privees.com, Montpellier 

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mon CV Interactif</title>
+    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Bienvenue sur mon CV Interactif</h1>
+        <p>Cliquez sur le bouton ci-dessous pour voir mon CV et interagir avec le chatbot.</p>
+        <button id="load-cv-btn">Voir le CV et le Chatbot</button>
+    </div>
+
+    <div id="cv-container" class="modal">
+        <div class="modal-content">
+            <span class="close">&times;</span>
+            <iframe id="cv-frame" src="" frameborder="0"></iframe>
+            <div id="chatbot-container">
+                <div id="chat-messages"></div>
+                <div id="chat-input">
+					{% csrf_token %}
+                    <input type="text" id="user-input" placeholder="Posez votre question...">
+                    <button onclick="sendMessage()">Envoyer</button>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="{% static 'js/chatbot.js' %}"></script>
+</body>
+</html>
