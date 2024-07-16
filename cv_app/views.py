@@ -7,6 +7,8 @@ from django.conf import settings
 import json
 from ollama_client.client import get_ollama_response
 
+SECRETS_FILE = getattr(settings, 'SECRETS_FILE', None)
+
 def index_view(request):
     return render(request, 'cv_app/index.html')
 
@@ -27,6 +29,6 @@ def chatbot(request):
         return JsonResponse({'answer': answer, 'session_id': session_id})
 
 def get_initial_message(request):
-    with open(settings.SECRETS_FILE, 'r') as f:
+    with open(SECRETS_FILE, 'r') as f:
         secrets = json.load(f)
     return JsonResponse({'message': secrets['initial_message']})

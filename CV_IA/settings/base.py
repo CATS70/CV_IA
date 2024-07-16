@@ -13,8 +13,9 @@ import os
 from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
-BASE_DIR = Path(__file__).resolve().parent.parent
-
+BASE_DIR = Path(__file__).resolve().parent
+STATIC_URL = '/static/'
+STATIC_ROOT = 'staticfiles'
 
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/
@@ -23,9 +24,6 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = '783yl-xqrua04ajvfhzq^xcn&)wbc$81socl3b0sz8byi(^qeo'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
-
-ALLOWED_HOSTS = ['localhost', '127.0.0.1']
 
 
 # Application definition
@@ -124,6 +122,7 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 SECRETS_FILE = os.path.join(BASE_DIR, 'config', 'secrets.json')
+print("sf b:",SECRETS_FILE)
 
 X_FRAME_OPTIONS = 'SAMEORIGIN'
 
@@ -157,12 +156,12 @@ X_FRAME_OPTIONS = 'SAMEORIGIN'
 #    },
 #}
 
-#CSRF_COOKIE_SECURE = False  # Mettre à True en production avec HTTPS
 CSRF_COOKIE_HTTPONLY = False
 CSRF_USE_SESSIONS = False
 CSRF_COOKIE_SAMESITE = 'Lax'
 CSRF_FAILURE_VIEW = 'django.views.csrf.csrf_failure'
 CSRF_COOKIE_NAME = "csrftoken"
 CSRF_HEADER_NAME = "HTTP_X_CSRFTOKEN"
+
 
 
