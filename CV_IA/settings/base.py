@@ -14,6 +14,8 @@ from pathlib import Path
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent
+BASE_DIR_SECRET = Path(__file__).resolve().parent.parent.parent
+
 STATIC_URL = '/static/'
 STATIC_ROOT = 'staticfiles'
 
@@ -23,7 +25,7 @@ STATIC_ROOT = 'staticfiles'
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = '783yl-xqrua04ajvfhzq^xcn&)wbc$81socl3b0sz8byi(^qeo'
 
-# SECURITY WARNING: don't run with debug turned on in production!
+ALLOWED_HOSTS = ['www.cfelix-ia.dev','localhost', '127.0.0.1']
 
 
 # Application definition
@@ -121,8 +123,7 @@ STATIC_URL = 'static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-SECRETS_FILE = os.path.join(BASE_DIR, 'config', 'secrets.json')
-print("sf b:",SECRETS_FILE)
+SECRETS_FILE = os.path.join(BASE_DIR_SECRET, 'config', 'secrets.json')
 
 X_FRAME_OPTIONS = 'SAMEORIGIN'
 

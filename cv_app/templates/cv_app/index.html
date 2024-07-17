@@ -1,21 +1,25 @@
-<!DOCTYPE html>
 {% load static %}
+<!DOCTYPE html>
 <html lang="fr">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mon CV Interactif</title>
-    <link rel="stylesheet" href="{% static 'css/styles.css' %}">
+    <title>CV Interactif - Christophe Felix</title>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="{% static 'css/styles.css' %}">
 </head>
 <body>
-
     <div class="container">
         <h1>Bienvenue sur mon CV Interactif</h1>
-        <p>Cliquez sur le bouton ci-dessous pour voir mon CV et interagir avec le chatbot.</p>
-        <button id="load-cv-btn">Voir le CV et le Chatbot</button>
+        <p>Découvrez mon parcours et discutez avec un chatbot IA pour en savoir plus sur mes compétences.</p>
+        <button class="btn"  id="load-cv-btn">Voir le CV et le Chatbot</button>
+        <div class="ai-images">
+            <img src="{% static 'images/interview-8270514.svg' %}" alt="Description de l'image" class="ai-image">
+            <img src="{% static 'images/machine-learning-5976913.svg' %}" alt="Description de l'image" class="ai-image">
+            <img src="{% static 'images/neural-network-3816319.svg' %}" alt="Description de l'image" class="ai-image">
+        </div>
     </div>
-
-    <div id="cv-container" class="modal">
+	<div id="cv-container" class="modal">
         <div class="modal-content">
             <span class="close">&times;</span>
             <iframe id="cv-frame" src="" frameborder="0"></iframe>
@@ -29,7 +33,6 @@
             </div>
         </div>
     </div>
-
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="{% static 'js/chatbot.js' %}"></script>
 </body>

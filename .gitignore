@@ -8,3 +8,5 @@ local_settings.py
 .idea
 *.log
 prod.py
+staticfiles/
+archive/
