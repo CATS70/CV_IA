@@ -6,6 +6,7 @@ from django.conf import settings
 import logging
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
+from datetime import datetime
 
 # Définir le chemin d'accès au répertoire racine du projet
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -158,6 +159,8 @@ def get_ollama_response(question):
                             full_response += json_line['response']
                     except json.JSONDecodeError:
                         logger.error(f"Erreur de décodage JSON: {line}")
+            # Enregistrez l'interaction dans un fichier
+            save_interaction(question, full_response)
             return full_response
         else:
             error_message = f"Erreur: {response.status_code} - {response.text}"
@@ -168,5 +171,31 @@ def get_ollama_response(question):
         logger.error(error_message)
         return error_message
 
+def save_interaction(question, answer):
+    interaction = {
+        "timestamp": datetime.now().isoformat(),
+        "question": question,
+        "answer": answer
+    }
+    
+    file_path = DATA_DIR / 'chat_history.jsonl'
+    max_file_size = 1 * 1024 * 1024  # 1 MB
+    max_backup_count = 10
+
+    # Vérifiez si le fichier dépasse la taille maximale
+    if file_path.exists() and file_path.stat().st_size > max_file_size:
+        # Effectuez la rotation
+        for i in range(max_backup_count - 1, 0, -1):
+            old_file = DATA_DIR / f'chat_history.jsonl.{i}'
+            new_file = DATA_DIR / f'chat_history.jsonl.{i+1}'
+            if old_file.exists():
+                old_file.rename(new_file)
+        
+        if file_path.exists():
+            file_path.rename(DATA_DIR / 'chat_history.jsonl.1')
+    
+    with file_path.open('a', encoding='utf-8') as f:
+        json.dump(interaction, f, ensure_ascii=False)
+        f.write('\n')
 # Chargement initial des données
 load_data()

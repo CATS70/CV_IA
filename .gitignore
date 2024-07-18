@@ -12,3 +12,4 @@ staticfiles/
 archive/
 *.tmp
 *.old
+*.jsonl
