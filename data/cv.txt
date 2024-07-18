@@ -64,49 +64,133 @@ Expériences informatiques :
 DSI 
 De septembre 2014 à février 2016 
 Exaprint, Montpellier 
-leader français de l'impression en ligne pour professionnels 
-Effectif : 120 pers. en France - CA : 75 M€ - Budget DSI : 1 M€ 
-Management d'une équipe de 10 personnes (dont 2 à Bordeaux) 
-Supervision IT des filiales (UK, ES, IT) 
-Gestion d'une infrastructure virtualisée de 60 serveurs (ESX) et 50 To de stockage 
-Résultats: 
-Disponibilité du SI >99 % (24/7/365) 
-Sécurisation du SI 
-Intégration du SI CIMPRESS en 4 semaines 
-Réalisations: 
-Nouvelle version multilingue de l'application mobile Exaprint 
-Audit de performance du site marchand 
-Audit de faisabilité d'une architecture Haute Disponibilité 
+Missions :		
+Management d’une équipe de 10 personnes (dont 2 à Bordeaux)
+Supervision IT des filiales (UK, ES, IT)
+Responsable de l'évolution, maintenance et exploitation du site marchand (24/7/365) et du back-office
+Gestion d'une infrastructure virtualisée de 60 serveurs (ESX) et 50 To de stockage
+Recrutement des ressources
+Dimensionnement des moyens à mettre en œuvre
+Gestion des achats de prestations et rédaction d'appel d'offre
+Supervision des prestataires externes
+Rédaction des procédures d'exploitation
+Pilotage du budget informatique
+Reporting projet
+Assurer la communication entre les services opérationnels et la fonction SI
+Mise en ligne du SI avec la stratégie de l'entreprise
+1 M€ de budget
+Sécurisation des données
+
+Résultats:
+Disponibilité du SI >99 % (24/7/365)
+Sécurisation du SI
+Intégration du SI CIMPRESS en 4 semaines
+Ouverture des nouveaux locaux dans les délais
+
+Réalisations :
+Passage en TMA du site marchand
+Nouvelle version multilingue de l'application mobile Exaprint
+Cartographie de l'infrastructure
+Audit de performance du site marchand
+Audit de faisabilité d'une architecture Haute Disponibilité
+Audit de sécurité
+Mise à jour du système de téléphonie
+Déménagement dans les nouveaux locaux (3 plateaux à aménager)
 Intégration du site avec avec Critéo
 
 Manager SI 
 De mai 2005 à mars 2014 
 Bureau Veritas, Lyon 
-Pilotage d'une équipe de 10 personnes, en charge de la maintenance évolutive et 
-corrective des applications de la zone France. 
+Management d’une équipe de 10 personnes sur 3 sites différents
+Responsable de la performance opérationnelle des applications, de leur intégrité et de leur sécurité
+Gestion des achats de prestations (rédaction d'appel d'offre, soutenance, négociation)
+Reporting projet
+Gestion d'un budget de 1 M€
+Référent expert auprès des chefs de projet
+Optimisation et rationalisation de l’organisation du service
+Pilotage du fournisseur interne en charge de la gestion de l’infrastructure.
+Pilotage des prestataires de développement
+Maintenance évolutive et corrective d'un parc de 15 applications (dont l'ERP et CRM) entièrement externalisée.
+Gestion du support niveau 2 de l'ERP
+
+Résultats:
+Effectif constant pour une croissance de 5 %/an
+Baisse du taux journalier moyen de 16%
+Baisse de 30% des coûts d'hébergement des serveurs
+Division par 2 du taux de bogue à la livraison
+Baisse de 45cts du coût de traitement des factures clients et fournisseurs via la mise en place de solutions de dématérialisation
+Augmentation de la productivité des ouvertures d'affaire de 50 %
+95 % des tickets de support traités dans les SLA
+
+Réalisations :
+Déménagement du Datacenter IBM vers le Datacenter Groupe
+Migration de l'ERP vers les nouveaux serveurs
+Mise en place des comités de pilotage (délais, budget, risques)
+Mise en place d'une méthodologie projet allégées facilitant la réactivité
+Mise en place, en collaboration avec le service marketing, du site de ventes en ligne des prestations Bureau Veritas pour les bénéficiaires de l'UGAP.
+Mise en place, en collaboration avec le service marketing, du site de ventes en ligne pro.bureauveritas.fr
+Mise en place des comités d'échange avec les métiers (Contrôle de gestion, commercial/marketing, comptabilité, achats)
+Revue annuelle des dernières innovations technologiques et déclinaisons possibles
+Passage en TMA du parc applicatif
+Fiabilisation des interfaces applicatives
+Mise en place de la solution de dématérialisation des factures fournisseurs et clients. 
 
 Directeur Projet 
 De juin 2002 à avril 2005 
 Bureau Veritas, Paris 
-Encadrement d'une équipe internationale : France, USA et Inde. Création et maintenance 
-de l'extranet du Groupe 
+Missions :
+Encadrement d'une équipe de 5 personnes (dont USA et en Inde), rédaction cahier des charges, estimation de charge, élaboration des plannings, AMOA, suivi d’avancement de production, reporting clients internes
+
+Réalisations :
+Création du rôle de Key Account Manager (Point de contact entre la DSI groupe et la Division Marine ainsi que la zone France)
+Webisation des applications Domino
+Création de l'extranet MAESTRO en collaboration avec le service communication (maestro.bureauveritas.com)
+Mise en place de l'annuaire et du Single Log-On
+transfert de l'infrastructure centrale depuis la SEMA vers le Datacenter corporate 
 
 Chef de projet 
 D'avril 2001 à mai 2002 
 Inexware, Paris 
 Environnement Java et J2E IBM Websphere. Site internet FcpNet de la BDPME. 
+Missions :
+En dehors des activités propres au chef de projet, il m’a été donné de faire de l’assistance avant-vente et de la rédaction du volet technique de proposition commerciale.
+
+Réalisations :
+Site internet FcpNet de la Banque du Développement des PME
+Mise à jour du référentiel qualité projet
 
 Co-fondateur 
 D'octobre 1996 à mars 2001 
 Modulosoft, puis Isysoft, Paris 
-Création du logiciel SILVI, refactoring logiciel TOMLO, création sites e-commerce 
+Missions :
+Management d’une équipe de 3 techniciens, Chef de projet, support technique, assistance avant-vente
+
+Réalisations :
+Mise en place de la CRM dans des sociétés de services
+Création du logiciel SILVI (logiciel de présentation interactive des biens immobiliers)
+Reprise du logiciel Location Directe (logiciel de gestion des bailleurs particuliers)
+création sites e-commerce sound-record.fr et vibe-station.fr (vente de disques en ligne)
+
 
 Autres expériences: 
 
 Conseiller en gestion de patrimoine 
 De mars 2022 à février 2024 
 Valority, Montpellier 
+Missions :		
+Prospection
+Prise de recommandation
+Analyse patrimoniale et fiscale
+Recherche et proposition des solutions
+Suivi mise en œuvre des solutions 
+Suivi annuel client (déclaration de revenus)
 
 Conseiller Immobilier Indépendant 
 De juin 2016 à février 2022 
 proprietes-privees.com, Montpellier 
+Missions :		
+Prospection (téléphonique, terrain)
+Suivi propriétaires mandants
+Suivi des contacts acquéreurs
+Négociation 
+Administration des ventes

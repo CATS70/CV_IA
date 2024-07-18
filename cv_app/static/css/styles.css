@@ -92,40 +92,56 @@ h1 {
 	transition: background-color 0.3s;
 	display: inline-block;
 	margin-top: 20px;
+	cursor: pointer;
 }
 .btn:hover {
 	background-color: #45a049;
 }
 .ai-images {
-	display: flex;
-	justify-content: space-around;
-	margin-top: 40px;
-	flex-wrap: wrap;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+    flex-wrap: wrap;
 }
+
 .ai-image {
-	width: 150px;
-	height: 150px;
-	object-fit: cover;
-	border-radius: 10px;
-	box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
-	transition: transform 0.3s;
-	margin: 10px;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%; /* Changé de 10px à 50% pour créer un cercle parfait */
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s;
+    margin: 10px;
 }
+
 .ai-image:hover {
-	transform: scale(1.05);
-}
-@media (max-width: 600px) {
-	.container {
-		padding: 20px;
-	}
-	.ai-image {
-		width: 100px;
-		height: 100px;
-	}
+    transform: scale(1.05);
 }
 @media (max-width: 768px) {
+    .container {
+        width: 90%;
+        padding: 20px;
+    }
+    .ai-image {
+        width: 100px;
+        height: 100px;
+    }
+    .btn {
+        padding: 10px 20px;
+        font-size: 16px;
+    }
     .modal-content {
         width: 95%;
         height: 90%;
+    }
+}
+
+@media (max-width: 600px) {
+    .container {
+        padding: 20px;
+    }
+    .ai-image {
+        width: 100px;
+        height: 100px;
     }
 }

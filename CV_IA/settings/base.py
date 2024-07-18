@@ -25,7 +25,7 @@ STATIC_ROOT = 'staticfiles'
 # SECURITY WARNING: keep the secret key used in production secret!
 SECRET_KEY = '783yl-xqrua04ajvfhzq^xcn&)wbc$81socl3b0sz8byi(^qeo'
 
-ALLOWED_HOSTS = ['www.cfelix-ia.dev','localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['www.cfelix-ia.dev','localhost', '127.0.0.1', '159.65.113.111']
 
 
 # Application definition

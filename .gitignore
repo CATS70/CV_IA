@@ -10,3 +10,5 @@ local_settings.py
 prod.py
 staticfiles/
 archive/
+*.tmp
+*.old
