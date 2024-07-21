@@ -159,7 +159,22 @@ def get_ollama_response(question):
 
     relevant_docs = search_relevant_docs(question)
     context = "\n".join(relevant_docs)
+	
+    context_length = get_secret('context_length')
+    if context_length is None:
+        context_length = 8192  # Valeur par défaut si non spécifiée
+    logger.info(f"Utilisation de context_length: {context_length}")
 
+    embedding_length = get_secret('embedding_length')
+    if embedding_length is None:
+        embedding_length = 1024  # Valeur par défaut si non spécifiée
+    logger.info(f"Utilisation de embedding_length: {embedding_length}")
+
+    stream = get_secret('stream')
+    if stream is None:
+        stream = True  # Valeur par défaut si non spécifiée
+    logger.info(f"Utilisation de stream: {stream}")
+	
     prompt_instructions = get_secret('prompt_instructions')
     if prompt_instructions is None:
         prompt_instructions = []
@@ -173,10 +188,11 @@ def get_ollama_response(question):
             json={
                 'model': model,
                 'prompt': full_prompt,
-                'max_tokens': 100,
-                'temperature': 0.3
+                'context_length': context_length,
+                'embedding_length': embedding_length,
+                'stream': stream
             },
-            stream=True
+            stream=stream
         )
 
         if response.status_code == 200:
@@ -186,19 +202,20 @@ def get_ollama_response(question):
                     try:
                         json_line = json.loads(line.decode('utf-8'))
                         if 'response' in json_line:
+                            chunk = json_line['response']
                             full_response += json_line['response']
+                            yield chunk
                     except json.JSONDecodeError:
                         logger.error(f"Erreur de décodage JSON: {line}")
             save_interaction(question, full_response)
-            return full_response
         else:
             error_message = f"Erreur: {response.status_code} - {response.text}"
             logger.error(error_message)
-            return error_message
+            yield error_message
     except Exception as e:
         error_message = f"Exception lors de l'appel à Ollama: {str(e)}"
         logger.error(error_message)
-        return error_message
+        yield error_message
 
 def save_interaction(question, answer):
     interaction = {

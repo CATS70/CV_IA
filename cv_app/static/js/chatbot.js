@@ -60,23 +60,28 @@ function sendMessage() {
     if (question) {
         chatMessages.append(`<p><strong>Vous:</strong> ${question}</p>`);
         userInput.val('');
-        $.ajax({
-            url: '/chatbot/',
-            type: 'POST',
-            contentType: 'application/json',
-            data: JSON.stringify({
-                question: question,
-                session_id: sessionId
-            }),
-            success: function(response) {
-                chatMessages.append(`<p><strong>Chatbot:</strong> ${response.answer}</p>`);
-                sessionId = response.session_id;
-                chatMessages.scrollTop(chatMessages[0].scrollHeight);
-            },
-            error: function(jqXHR, textStatus, errorThrown) {
-                console.error("AJAX error: " + textStatus + ' : ' + errorThrown);
-                chatMessages.append(`<p><strong>Erreur:</strong> Impossible d'obtenir une réponse.</p>`);
-            }
+
+        const eventSource = new EventSource(`/chatbot/?question=${encodeURIComponent(question)}&session_id=${sessionId}`);
+        
+        let currentResponse = $('<p><strong>Chatbot:</strong> </p>');
+        chatMessages.append(currentResponse);
+
+        eventSource.onmessage = function(event) {
+            const data = JSON.parse(event.data);
+            currentResponse.append(data.chunk);
+            chatMessages.scrollTop(chatMessages[0].scrollHeight);
+        };
+
+        eventSource.onerror = function(event) {
+            console.error("EventSource failed:", event);
+            eventSource.close();
+            chatMessages.append(`<p><strong>Erreur:</strong> La connexion a été interrompue.</p>`);
+        };
+
+        eventSource.addEventListener('close', function(event) {
+            eventSource.close();
+            const data = JSON.parse(event.data);
+            sessionId = data.session_id;
         });
     }
 }
