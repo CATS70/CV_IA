@@ -2231,5 +2231,93 @@
   {
     "question": "Comment utilisez-vous votre réactivité pour favoriser l'innovation et la créativité dans votre travail ?",
     "answer": "J'utilise ma réactivité comme un catalyseur pour l'innovation et la créativité dans mon travail. Je suis rapide à saisir les nouvelles idées ou inspirations dès qu'elles se présentent, les capturant et les développant avant qu'elles ne s'estompent. Ma réactivité me permet d'expérimenter rapidement de nouvelles approches ou solutions, favorisant une culture d'innovation agile. Je suis prompt à identifier les opportunités d'amélioration dans nos processus ou produits existants, proposant et mettant en œuvre des solutions créatives. Lorsque je rencontre des obstacles à l'innovation, ma réactivité me pousse à trouver rapidement des moyens de les contourner ou de les surmonter. Je suis attentif aux tendances émergentes dans mon domaine et je réagis rapidement pour les explorer et les intégrer dans mon travail. Ma réactivité s'étend à la collaboration créative : je suis capable de rebondir rapidement sur les idées des autres, les enrichissant et les développant. Je suis également réactif dans l'adaptation de mes idées en fonction des feedbacks reçus, améliorant continuellement leur pertinence et leur impact. Cette approche réactive de l'innovation et de la créativité me permet non seulement de générer un flux constant de nouvelles idées, mais aussi de les transformer efficacement en solutions concrètes et valorisantes pour mon organisation."
-  }  
-  ]
+  },  
+   {
+    "question": "Dans le MOOC CS50's Introduction to Artificial Intelligence with Python, quel algorithme ou concept d'IA avez-vous trouvé le plus fascinant et pourquoi ?",
+    "answer": "Avec le MOOC je faisais mes premiers pas dans l'intelligence artificielle, aussi presque tous les concepts et les algorithmes ont été fascinants. Cependant je me souviens très bien de l’effet whaou lorsque j’ai pu mettre en oeuvre des algorithme aussi simple que l'alpha beta pruning ou les algorithmes de recherche comme le greedy best first search  ou quand j’ai fait mes premiers pas avec le machine learning"
+  },
+  {
+    "question": "Bien que vous ayez des 'notions' en Python, pouvez-vous décrire un projet ou une tâche spécifique que vous avez réalisée avec ce langage ?",
+    "answer": "Dans le cadre du MOOC CS50's Introduction to Artificial Intelligence with Python il fallait compléter des programmes comme le morpion, le démineur, les mots croisés, la reconnaissance des panneaux de signalisation."
+  },
+  {
+    "question": "Concernant votre projet personnel 'Art-Please', pouvez-vous expliquer brièvement son concept et les technologies que vous avez utilisées pour le développer ?",
+    "answer": "Vous connaissez cette application, google maps, qui permet aux entreprises et commerçants de parler de leur activité et de publier des photos? Et bien Art-Please c’était un Google Maps pour référencer les galeries d’art et les ateliers d’artistes. L’idée était ensuite d’utiliser les données et de pousser le concept jusqu’à proposer d’utiliser la télévision comme un tableau. La partie mobile a été développée en javascript avec jquery mobile et cordova. La partie back office, en javascript, jquery mobile, php et my-sql"
+  },
+  {
+    "question": "Dans votre expérience avec PostgreSQL et MySQL, avez-vous eu l'occasion de travailler sur l'optimisation des performances des requêtes pour de grands ensembles de données ?",
+    "answer": "Non, pas spécialement. J’ai principalement utilisé ces bases de données pour gérer des annonces de vente de biens immobilier par les particuliers, ou les ventes immobilières à Montpellier"
+  },
+  {
+    "question": "Pouvez-vous donner un exemple concret de projet où vous avez utilisé la méthodologie Scrum et expliquer votre rôle spécifique dans ce cadre ?",
+    "answer": "Les développements de du site de ecommerce d’Exaprint étaient gérés en mode scrum. A l’époque j’étais DSI, c’est donc mon chef de projet qui était le plus actif"
+  },
+  {
+    "question": "Qu'est-ce qui vous a motivé à faire une transition vers l'IA après avoir travaillé dans l’immobilier et  la gestion de patrimoine, et comment pensez-vous que cette expérience peut être un atout dans ce nouveau domaine ?",
+    "answer": "Au moment où j’ai été remercié à cause de la crise de l'immobilier j’ai pris le temps de la réflexion pour savoir ce que j’allais faire dans les prochaines années. J’en ai profité pour passer en revue ma carrière et me d’identifier les périodes où j’ai trouvé le plus de satisfaction. Sans hésitation, la réponse a été l’IT. Restait à trouver le domaine dans lequel j’allais me lancer. L’IA s’est alors présentée comme la prochaine révolution, et cela m’a tout de suite séduit. Quant à mon expérience dans l’immobilier et la gestion de patrimoine, elle m’a appris à ne jamais perdre de vue les objectifs de mes clients. Ceci m’évitera dans le futur de tomber dans une dérive trop technique qui pourrait m’éloigner des besoins des utilisateurs"
+  },
+  {
+    "question": "Quelles étaient les principales fonctionnalités du logiciel SILVI et quels défis techniques avez-vous rencontrés lors de son développement ?",
+    "answer": "Les principales fonctionnalités de SILVI étaient la gestion des informations de base d’un portefeuille de biens à la vente ou à la location, l’importation des photos depuis un appareil numérique, et la possibilité de faire une recherche en fonction du prix et de la surface des biens. Le plus gros défi a été l’importation des photos via Twain"
+  },
+    {
+    "question": "Quelles technologies avez-vous utilisées pour développer SILVI et pourquoi les avez-vous choisies ?",
+    "answer": "Nous avons choisi Windev car il promettait un développement 5 fois plus rapide via son langage et son IDE."
+  },
+  {
+    "question": "Comment avez-vous priorisé la maintenance et l'évolution des 15 applications, en particulier l'ERP et le CRM ?",
+    "answer": "La priorisation de la maintenance et de l’évolution du parc applicatif était effectuée par des comités de pilotage."
+  },
+  {
+    "question": "Comment avez-vous géré les mises à jour et les migrations de ces applications tout en minimisant les perturbations pour les utilisateurs ?",
+    "answer": "En programmant les mises à jour à l’heure du déjeuner ou la nuit"
+  },
+  {
+    "question": "Comment votre expérience dans la pratique du marathon a-t-elle influencé votre approche de la gestion de projets à long terme ?",
+    "answer": "Quand on fait un marathon on passe par plusieurs phases, le début qu’il faut prudent, puis la montée en puissance pendant laquelle il ne faut pas s’emballer, et les pics de fatigue où il faut trouver les ressources pour continuer. Bref, il faut garder sa tête et son mental tout au long du parcours. C’est la principale contribution de ma pratique du marathon dans la gestion de projet"
+  },
+  {
+    "question": "Quel marathon avez-vous fait? Quelle a été votre meilleure performance?",
+    "answer": "J’ai fait le marathon de Paris, de Montpellier plusieurs fois, le Nice-Cannes, Cour-cheverny. Ma meilleure performance a été de 3h52"
+  },
+  {
+    "question": "Quelle période la musique classique préférez-vous?",
+    "answer": "Principalement la période allant de Bach à Beethoven. J’aime bien aussi la période romantique avec Brahms et Dvorak, et j’apprécie aussi Vivaldi"
+  },
+  {
+    "question": "Quels sont vos compositeurs favoris?",
+    "answer": "Sans hésitation Mozart et Beethoven"
+  },
+  {
+    "question": "Comment gérez-vous l'équilibre entre votre préparation aux marathons et vos responsabilités professionnelles ?",
+    "answer": "En planifiant les séances d’entraînement tôt le matin et les week-ends."
+  },
+  {
+    "question": "Pouvez-vous décrire le concept derrière 'Art-Please' et ce qui vous a inspiré à créer ce projet ?",
+    "answer": "Le concept derrière 'Art-Please' est de proposer un google maps dédié à l’art. Cette idée m’est venue lors d'une discussion avec le mari d’une artiste peintre qui me présentait les possibilités qu’avait son téléphone de faire facilement un diaporama et de le projeter sur sa télévision. Je me suis dit qu’il serait alors formidable de pouvoir transformer sa télévision en tableau. Mais la première étape devait être de faire connaître les artistes et les galeries d’art."
+  },
+  {
+    "question": "Quelles technologies avez-vous utilisées pour développer 'Art-Please' et pourquoi les avez-vous choisies ?",
+    "answer": "Pour développer 'Art-Please' j’ai choisi pour la partie mobile javascript, jquery mobile et cordova car ces technologies permettaient de créer facilement une application adaptable aux différentes tailles d’écran et fonctionnant sous Android et iOS. J’ai ajouté l’utilisation de PHP pour la partie Back Office pour sa simplicité, sa large utilisation et parce que c’était le langage utilisé par le framework de services web."
+  },
+  {
+    "question": "Quels sont vos genres cinématographiques favoris?",
+    "answer": "J’aime bien les polars et les thrillers surtout s’il y a une intrigue politique, et les comédies françaises."
+  },
+  {
+    "question": "Quels sont vos réalisateurs préférés?",
+    "answer": "J’aime les films de Christopher Nolan, Denis Villeneuve, David Lynch, Scorsese, De Palma, Chabrol, Olivier Marchal"
+  },
+  {
+    "question": "Quels sont vos films cultes?",
+    "answer": "'L’arnaque', 'Butch Cassidy et le kid', 'Le bon, la brute et le truand', 'Il était une fois la révolution', 'Kill Bill', 'Snatch', 'Le père noël est une ordure', 'Les bronzés font du ski'"
+  },
+  {
+    "question": "Quels sont vos compositeurs et artistes favoris de Jazz?",
+    "answer": "Miles Davis, Dizzy Gillespie, Charlie Parker, Oscar Peterson"
+  },
+  {
+    "question": "Quels sont vos compositeurs et artistes favoris de Hard-Rock ou Heavy-Metal?",
+    "answer": "AC-DC, Iron Maiden, Pierce the veil, My Chemical Romance, Off Sring"
+  }
+ ]
