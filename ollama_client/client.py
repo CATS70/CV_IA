@@ -143,6 +143,7 @@ def search_relevant_docs(query, top_k=3):
 
 @log_execution_time
 def get_ollama_response(question):
+    start_time = time.time()  # Début du chronométrage
     OLLAMA_URL = os.environ.get('OLLAMA_URL')
     SALAD_API_KEY = os.environ.get('SALAD_API_KEY')
 
@@ -207,6 +208,9 @@ def get_ollama_response(question):
                             yield chunk
                     except json.JSONDecodeError:
                         logger.error(f"Erreur de décodage JSON: {line}")
+            end_time = time.time()  # Fin du chronométrage
+            execution_time = end_time - start_time
+            logger.info(f"Temps d'exécution de get_ollama_response: {execution_time:.4f} secondes")
             save_interaction(question, full_response)
         else:
             error_message = f"Erreur: {response.status_code} - {response.text}"
