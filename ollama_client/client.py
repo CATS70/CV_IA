@@ -120,7 +120,7 @@ def prepare_data(cv_text, qa_data):
     return vectorizer, tfidf_matrix
 
 @log_execution_time
-def search_relevant_docs(query, top_k=3):
+def search_relevant_docs(query, top_k=5):  # Augmenté de 3 à 5
     cv_text, qa_data = load_data()
     vectorizer, tfidf_matrix = prepare_data(cv_text, qa_data)
 
@@ -175,13 +175,23 @@ def get_ollama_response(question):
     if stream is None:
         stream = True  # Valeur par défaut si non spécifiée
     logger.info(f"Utilisation de stream: {stream}")
+
+    temperature = get_secret('temperature')
+    if temperature is None:
+        temperature = 0.3  # Valeur par défaut si non spécifiée
+    logger.info(f"Utilisation de temperature: {temperature}")
+
+    top_p = get_secret('top_p')
+    if top_p is None:
+        top_p = 0.9  # Valeur par défaut si non spécifiée
+    logger.info(f"Utilisation de top_p: {top_p}")
 	
     prompt_instructions = get_secret('prompt_instructions')
     if prompt_instructions is None:
         prompt_instructions = []
     prompt_instructions = "\n".join(prompt_instructions)
 
-    full_prompt = f"{prompt_instructions}\n\nContexte du CV:\n{context}\n\nQuestion: {question}\n\nRéponse:"
+    full_prompt = f"{prompt_instructions}\n\nContexte du CV:\n{context}\n\nRéponds uniquement en utilisant les informations du contexte ci-dessus.\n\nQuestion: {question}\n\nRéponse:"
 
     try:
         response = requests.post(f'{OLLAMA_URL}/api/generate',
@@ -191,7 +201,9 @@ def get_ollama_response(question):
                 'prompt': full_prompt,
                 'context_length': context_length,
                 'embedding_length': embedding_length,
-                'stream': stream
+                'stream': stream,
+                'temperature': temperature,  # Ajouté pour des réponses plus conservatrices
+                'top_p': top_p  # Ajouté pour contrôler la diversité des réponses
             },
             stream=stream
         )
@@ -211,6 +223,9 @@ def get_ollama_response(question):
             end_time = time.time()  # Fin du chronométrage
             execution_time = end_time - start_time
             logger.info(f"Temps d'exécution de get_ollama_response: {execution_time:.4f} secondes")
+            logger.info(f"Question: {question}")
+            logger.info(f"Contexte utilisé: {context}")
+            logger.info(f"Réponse générée: {full_response}")
             save_interaction(question, full_response)
         else:
             error_message = f"Erreur: {response.status_code} - {response.text}"
@@ -245,6 +260,12 @@ def save_interaction(question, answer):
     with file_path.open('a', encoding='utf-8') as f:
         json.dump(interaction, f, ensure_ascii=False)
         f.write('\n')
+
+def verify_response(response, context):
+    # Cette fonction est à implémenter selon vos besoins spécifiques
+    # Elle devrait vérifier si la réponse contient des informations non présentes dans le contexte
+    # et retourner un booléen ou un résultat plus détaillé
+    pass
 
 # Chargement initial des données
 load_data()

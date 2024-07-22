@@ -61,9 +61,10 @@ Paris IX - Dauphine Paris
 
 Expériences informatiques : 
 
-DSI 
-De septembre 2014 à février 2016 
-Exaprint, Montpellier 
+Poste: DSI 
+Période d'exercice du poste: De septembre 2014 à février 2016 
+Entreprise: Exaprint
+Lieu du poste: Montpellier 
 Missions :		
 Management d’une équipe de 10 personnes (dont 2 à Bordeaux)
 Supervision IT des filiales (UK, ES, IT)
@@ -98,9 +99,10 @@ Mise à jour du système de téléphonie
 Déménagement dans les nouveaux locaux (3 plateaux à aménager)
 Intégration du site avec avec Critéo
 
-Manager SI 
-De mai 2005 à mars 2014 
-Bureau Veritas, Lyon 
+Poste: Manager SI 
+Période d'exercice du poste:De mai 2005 à mars 2014 
+Entreprise: Bureau Veritas
+Lieu du poste: Lyon 
 Management d’une équipe de 10 personnes sur 3 sites différents
 Responsable de la performance opérationnelle des applications, de leur intégrité et de leur sécurité
 Gestion des achats de prestations (rédaction d'appel d'offre, soutenance, négociation)
@@ -135,9 +137,10 @@ Passage en TMA du parc applicatif
 Fiabilisation des interfaces applicatives
 Mise en place de la solution de dématérialisation des factures fournisseurs et clients. 
 
-Directeur Projet 
-De juin 2002 à avril 2005 
-Bureau Veritas, Paris 
+Poste: Directeur Projet 
+Période d'exercice du poste: De juin 2002 à avril 2005 
+Entreprise: Bureau Veritas
+Lieu du poste: Paris 
 Missions :
 Encadrement d'une équipe de 5 personnes (dont USA et en Inde), rédaction cahier des charges, estimation de charge, élaboration des plannings, AMOA, suivi d’avancement de production, reporting clients internes
 
@@ -148,9 +151,10 @@ Création de l'extranet MAESTRO en collaboration avec le service communication (
 Mise en place de l'annuaire et du Single Log-On
 transfert de l'infrastructure centrale depuis la SEMA vers le Datacenter corporate 
 
-Chef de projet 
-D'avril 2001 à mai 2002 
-Inexware, Paris 
+Poste: Chef de projet 
+Période d'exercice du poste: D'avril 2001 à mai 2002 
+Entreprise: Inexware
+Lieu du poste: Paris 
 Environnement Java et J2E IBM Websphere. Site internet FcpNet de la BDPME. 
 Missions :
 En dehors des activités propres au chef de projet, il m’a été donné de faire de l’assistance avant-vente et de la rédaction du volet technique de proposition commerciale.
@@ -159,9 +163,10 @@ Réalisations :
 Site internet FcpNet de la Banque du Développement des PME
 Mise à jour du référentiel qualité projet
 
-Co-fondateur 
-D'octobre 1996 à mars 2001 
-Modulosoft, puis Isysoft, Paris 
+Poste: Co-fondateur 
+Période d'exercice du poste: D'octobre 1996 à mars 2001 
+Entreprise: Modulosoft, puis Isysoft
+Lieu du poste: Paris 
 Missions :
 Management d’une équipe de 3 techniciens, Chef de projet, support technique, assistance avant-vente
 
@@ -174,9 +179,10 @@ création sites e-commerce sound-record.fr et vibe-station.fr (vente de disques 
 
 Autres expériences: 
 
-Conseiller en gestion de patrimoine 
-De mars 2022 à février 2024 
-Valority, Montpellier 
+Poste: Conseiller en gestion de patrimoine 
+Période d'exercice du poste: De mars 2022 à février 2024 
+Entreprise: Valority
+Lieu du poste: Montpellier 
 Missions :		
 Prospection
 Prise de recommandation
@@ -185,9 +191,10 @@ Recherche et proposition des solutions
 Suivi mise en œuvre des solutions 
 Suivi annuel client (déclaration de revenus)
 
-Conseiller Immobilier Indépendant 
-De juin 2016 à février 2022 
-proprietes-privees.com, Montpellier 
+Poste: Conseiller Immobilier Indépendant 
+Période d'exercice du poste: De juin 2016 à février 2022 
+Entreprise: proprietes-privees.com
+Lieu du poste: Montpellier 
 Missions :		
 Prospection (téléphonique, terrain)
 Suivi propriétaires mandants
