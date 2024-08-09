@@ -19,11 +19,15 @@
             <img src="{% static 'images/photocv.jpg' %}" alt="Description de l'image" class="ai-image">
             <img src="{% static 'images/neural-network-3816319.svg' %}" alt="Description de l'image" class="ai-image">
         </div>
+
     </div>
 	<div id="cv-container" class="modal">
         <div class="modal-content">
             <span class="close">&times;</span>
             <iframe id="cv-frame" src="" frameborder="0"></iframe>
+			<div id="loading-indicator" style="display: none;">
+				<img src="{% static 'images/Dancing kitty.gif' %}" alt="Chargement...">
+			</div>
             <div id="chatbot-container">
                 <div id="chat-messages"></div>
                 <div id="chat-input">
