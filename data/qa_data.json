@@ -425,11 +425,15 @@
   },
   {
     "question": "Quelle est votre expérience avec les outils de qualité de code ?",
-    "answer": "SonarQube"
+    "answer": "J'ai utilisé Sonar (aujourd'hui SonarQube) pour vérifier l'amélioration du code dans le cadre de la TMA de Bureau Veritas"
   },
   {
     "question": "Quelle est votre expérience avec les outils ETL ?",
-    "answer": "Datastage"
+    "answer": "J'ai principalement utilisé Datastage pour interfacer l'ERP de Bureau Veritas avec son système de gestion des opérations"
+  },
+  {
+    "question": "Quels projets avez-vous fait avec Datastage ?",
+    "answer": "J'ai principalement utilisé Datastage pour interfacer l'ERP de Bureau Veritas avec son système de gestion des opérations"
   },
   {
     "question": "Quelle est votre expérience avec MySQL ?",
@@ -2297,6 +2301,17 @@
     "answer": "Le concept derrière 'Art-Please' est de proposer un google maps dédié à l’art. Cette idée m’est venue lors d'une discussion avec le mari d’une artiste peintre qui me présentait les possibilités qu’avait son téléphone de faire facilement un diaporama et de le projeter sur sa télévision. Je me suis dit qu’il serait alors formidable de pouvoir transformer sa télévision en tableau. Mais la première étape devait être de faire connaître les artistes et les galeries d’art."
   },
   {
+    "question": "Parlez moi du projet 'Art-Please'",
+    "answer": "Le concept derrière 'Art-Please' est de proposer un google maps dédié à l’art. Cette idée m’est venue lors d'une discussion avec le mari d’une artiste peintre qui me présentait les possibilités qu’avait son téléphone de faire facilement un diaporama et de le projeter sur sa télévision. Je me suis dit qu’il serait alors formidable de pouvoir transformer sa télévision en tableau. Mais la première étape devait être de faire connaître les artistes et les galeries d’art."
+  },  
+  {
+    "question": "Qu'est-ce que le projet 'Art-Please'",
+    "answer": "Le concept derrière 'Art-Please' est de proposer un google maps dédié à l’art. Cette idée m’est venue lors d'une discussion avec le mari d’une artiste peintre qui me présentait les possibilités qu’avait son téléphone de faire facilement un diaporama et de le projeter sur sa télévision. Je me suis dit qu’il serait alors formidable de pouvoir transformer sa télévision en tableau. Mais la première étape devait être de faire connaître les artistes et les galeries d’art."
+  },
+{
+    "question": "Pouvez-vous décrire le concept derrière 'Art-Please' et ce qui vous a inspiré à créer ce projet ?",
+    "answer": "Le concept derrière 'Art-Please' est de proposer un google maps dédié à l’art. Cette idée m’est venue lors d'une discussion avec le mari d’une artiste peintre qui me présentait les possibilités qu’avait son téléphone de faire facilement un diaporama et de le projeter sur sa télévision. Je me suis dit qu’il serait alors formidable de pouvoir transformer sa télévision en tableau. Mais la première étape devait être de faire connaître les artistes et les galeries d’art."
+  },  {
     "question": "Quelles technologies avez-vous utilisées pour développer 'Art-Please' et pourquoi les avez-vous choisies ?",
     "answer": "Pour développer 'Art-Please' j’ai choisi pour la partie mobile javascript, jquery mobile et cordova car ces technologies permettaient de créer facilement une application adaptable aux différentes tailles d’écran et fonctionnant sous Android et iOS. J’ai ajouté l’utilisation de PHP pour la partie Back Office pour sa simplicité, sa large utilisation et parce que c’était le langage utilisé par le framework de services web."
   },
@@ -2395,6 +2410,18 @@
   {
     "question": "Que venez-vous chercher dans votre activité professionnelle ?",
     "answer": "Le travail à un ouvrage commun. Cette possibilité que nous offre l'activité professionnelle de travailler au sein d'une équipe tourner vers le même objectif.LE faire plus nature + la créativité."
+  },
+    {
+    "question": "Comment avez-vous maintenu vos compétences en informatique pendant votre période dans l'immobilier ?",
+    "answer": "Bien que j'aie travaillé dans l'immobilier, j'ai continué à me former en informatique à travers des cours en ligne, des projets personnels et en suivant les dernières tendances technologiques. Par exemple, j'ai suivi des cours sur Coursera en développement web et j'ai créé un site pour mon activité immobilière."
+  },
+    {
+    "question": "Pouvez-vous donner un exemple concret d'utilisation de la technologie dans votre travail immobilier ?",
+    "answer": "Absolument. J'ai crée un site web sous wordpress pour l'activité d'immobilier neuf. J'ai aussi créé un application mobile pour envoyer des emails aux propriétaires vendeurs du boncoin."
+  },
+    {
+    "question": "Quelles mesures avez-vous prises récemment pour vous mettre à jour sur les dernières technologies informatique ?",
+    "answer": "J'ai récemment suivi une formation intensive en IA et ML sous forme de MOOC. De plus, je participe régulièrement à des hackathons et à des meetups tech pour rester à jour et élargir mon réseau dans l'industrie."
   }
   
  ]
