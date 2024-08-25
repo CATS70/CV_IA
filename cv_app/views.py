@@ -10,6 +10,18 @@ from ollama_client.client import get_ollama_response
 
 SECRETS_FILE = getattr(settings, 'SECRETS_FILE', None)
 
+@require_http_methods(["GET"])
+def chatbot_api(request):
+    question = request.GET.get('question', '')
+    
+    # Utiliser uniquement la version en streaming pour l'API
+    return StreamingHttpResponse(stream_response(question), content_type='text/event-stream')
+
+def stream_response(question):
+    for chunk in get_ollama_response(question):
+        yield f"data: {json.dumps({'chunk': chunk})}\n\n"
+    yield "data: [DONE]\n\n"
+	
 def index_view(request):
     return render(request, 'cv_app/index.html')
 

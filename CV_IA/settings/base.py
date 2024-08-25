@@ -48,6 +48,7 @@ MIDDLEWARE = [
     'django.contrib.auth.middleware.AuthenticationMiddleware',
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
+	'corsheaders.middleware.CorsMiddleware',
 ]
 
 ROOT_URLCONF = 'CV_IA.urls'
@@ -126,6 +127,11 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 SECRETS_FILE = os.path.join(BASE_DIR_SECRET, 'config', 'secrets.json')
 
 X_FRAME_OPTIONS = 'SAMEORIGIN'
+
+CORS_ALLOWED_ORIGINS = [
+    "http://localhost:3000",
+    "https://www.cfelix-ia.dev"
+]
 
 #LOGGING = {
 #    'version': 1,

@@ -22,4 +22,5 @@ urlpatterns = [
     path('cv/', views.cv_view, name='cv'),
     path('chatbot/', views.chatbot, name='chatbot'),
     path('initial-message/', views.get_initial_message, name='initial_message'),
+	path('api/chatbot/', views.chatbot_api, name='chatbot_api'),
 ]
