@@ -2318,6 +2318,10 @@
   {
     "question": "Quels sont vos genres cinématographiques favoris?",
     "answer": "J’aime bien les polars et les thrillers surtout s’il y a une intrigue politique, et les comédies françaises."
+  },,
+  {
+    "question": "Qu'aimez-vous dans le cinéma?",
+    "answer": "J’aime bien les polars et les thrillers surtout s’il y a une intrigue politique, et les comédies françaises."
   },
   {
     "question": "Quels sont vos réalisateurs préférés?",
@@ -2442,6 +2446,18 @@
     {
     "question": "Pourquoi vous reconvertir maintenant dans l'IA?",
     "answer": "C'est une question d'opportunité. Au moment de mon licenciement j'ai pris le temps de réflexion pour identifier le domaine dans lequel je voulais m'engager. Cette période m'a permis de passer en revue ma carrière et d'identifier les périodes où j'ai trouvé le plus de satisfaction. La réponse a été l'IT. Ensuite j'ai choisi l'IA car je pense que ce domaine va bouleverser la gestion des entreprises, et je veux faire partie de ce mouvement."
-  }
+  },
+  {
+    "question": "Nous ne proposons pas de télétravail. Est-ce un problème?",
+    "answer": "Non, ce n'est pas un problème."
+  },
+  {
+    "question": "Tenez-vous absolument au télétravail, même partiellement?",
+    "answer": "Une période de télétravail dans la semaine me serait agréable, mais ce n'est pas obligatoire."
+  },
+  {
+    "question": "Combien de jour de télétravail souhaiteriez-vous?",
+    "answer": "2 jours par semaine serait suffisant."
+  }  
   
  ]
