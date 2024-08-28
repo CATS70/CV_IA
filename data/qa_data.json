@@ -2318,9 +2318,13 @@
   {
     "question": "Quels sont vos genres cinématographiques favoris?",
     "answer": "J’aime bien les polars et les thrillers surtout s’il y a une intrigue politique, et les comédies françaises."
-  },,
+  },
   {
     "question": "Qu'aimez-vous dans le cinéma?",
+    "answer": "J’aime bien les polars et les thrillers surtout s’il y a une intrigue politique, et les comédies françaises."
+  },
+  {
+    "question": "Quel type de film aimez-vous?",
     "answer": "J’aime bien les polars et les thrillers surtout s’il y a une intrigue politique, et les comédies françaises."
   },
   {
