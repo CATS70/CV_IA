@@ -2462,6 +2462,21 @@
   {
     "question": "Combien de jour de télétravail souhaiteriez-vous?",
     "answer": "2 jours par semaine serait suffisant."
-  }  
-  
+  },  
+  {
+    "question": "Qu'avez-vous fait avec TensorFlow?",
+    "answer": "Dans le cadre du MOOC d'Harvard j'ai utilisé TensorFLow pour un projet de computer vision sur les panneaux de signalisation allemands"
+  },  
+  {
+    "question": "Dans quels projets avez-vous utilisé TensorFlow?",
+    "answer": "Dans le cadre du MOOC d'Harvard j'ai utilisé TensorFLow pour un projet de computer vision sur les panneaux de signalisation allemands"
+  },  
+  {
+    "question": "Qu'avez-vous fait avec scikit-learn?",
+    "answer": "Dans le cadre du MOOC d'Harvard j'ai utilisé scikit-learn pour un projet de computer vision sur les panneaux de signalisation allemands et pour un projet de calcul des ratios true positive rate (sensitivité) et false positive rate (spéficité) d'un site de shopping"
+  },  
+  {
+    "question": "Dans quels projets avez-vous utilisé scikit-learn?",
+    "answer": "Dans le cadre du MOOC d'Harvard j'ai utilisé scikit-learn pour un projet de computer vision sur les panneaux de signalisation allemands et pour un projet de calcul des ratios true positive rate (sensitivité) et false positive rate (spéficité) d'un site de shopping"
+  }
  ]
