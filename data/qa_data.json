@@ -2478,5 +2478,9 @@
   {
     "question": "Dans quels projets avez-vous utilisé scikit-learn?",
     "answer": "Dans le cadre du MOOC d'Harvard j'ai utilisé scikit-learn pour un projet de computer vision sur les panneaux de signalisation allemands et pour un projet de calcul des ratios true positive rate (sensitivité) et false positive rate (spéficité) d'un site de shopping"
+  },  
+  {
+    "question": "Quels projets en IA avez-vous fait?",
+    "answer": "Tout d'abord ce chatbot CV. Ensuite, dans le cadre du MOOC d'Harvard j'ai eu l'occasion de travailler sur un projet de computer vision sur les panneaux de signalisation allemands et sur un projet de calcul des ratios true positive rate (sensitivité) et false positive rate (spéficité) d'un site de shopping. Enfin j'ai d'autres projets personnels en cours mettant en oeuvre le ML afin d'évaluer différentes techniques, comme la prévision de la hausse ou de la baisse du bitcoin"
   }
  ]
