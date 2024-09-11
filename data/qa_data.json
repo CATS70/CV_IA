@@ -2480,7 +2480,27 @@
     "answer": "Dans le cadre du MOOC d'Harvard j'ai utilisé scikit-learn pour un projet de computer vision sur les panneaux de signalisation allemands et pour un projet de calcul des ratios true positive rate (sensitivité) et false positive rate (spéficité) d'un site de shopping"
   },  
   {
-    "question": "Quels projets en IA avez-vous fait?",
+    "question": "Quels projets en en intelligence artificielle (IA) avez-vous fait?",
+    "answer": "Tout d'abord ce chatbot CV. Ensuite, dans le cadre du MOOC d'Harvard j'ai eu l'occasion de travailler sur un projet de computer vision sur les panneaux de signalisation allemands et sur un projet de calcul des ratios true positive rate (sensitivité) et false positive rate (spéficité) d'un site de shopping. Enfin j'ai d'autres projets personnels en cours mettant en oeuvre le ML afin d'évaluer différentes techniques, comme la prévision de la hausse ou de la baisse du bitcoin"
+  },  
+  {
+    "question": "Quels projets en intelligence artificielle avez-vous réalisés ?",
+    "answer": "Tout d'abord ce chatbot CV. Ensuite, dans le cadre du MOOC d'Harvard j'ai eu l'occasion de travailler sur un projet de computer vision sur les panneaux de signalisation allemands et sur un projet de calcul des ratios true positive rate (sensitivité) et false positive rate (spéficité) d'un site de shopping. Enfin j'ai d'autres projets personnels en cours mettant en oeuvre le ML afin d'évaluer différentes techniques, comme la prévision de la hausse ou de la baisse du bitcoin"
+  },  
+  {
+    "question": "Pouvez-vous me parler des projets en intelligence artificielle (IA) que vous avez menés ?",
+    "answer": "Tout d'abord ce chatbot CV. Ensuite, dans le cadre du MOOC d'Harvard j'ai eu l'occasion de travailler sur un projet de computer vision sur les panneaux de signalisation allemands et sur un projet de calcul des ratios true positive rate (sensitivité) et false positive rate (spéficité) d'un site de shopping. Enfin j'ai d'autres projets personnels en cours mettant en oeuvre le ML afin d'évaluer différentes techniques, comme la prévision de la hausse ou de la baisse du bitcoin"
+  },  
+  {
+    "question": "Quels sont les projets en intelligence artificielle (IA) que vous avez effectués ?",
+    "answer": "Tout d'abord ce chatbot CV. Ensuite, dans le cadre du MOOC d'Harvard j'ai eu l'occasion de travailler sur un projet de computer vision sur les panneaux de signalisation allemands et sur un projet de calcul des ratios true positive rate (sensitivité) et false positive rate (spéficité) d'un site de shopping. Enfin j'ai d'autres projets personnels en cours mettant en oeuvre le ML afin d'évaluer différentes techniques, comme la prévision de la hausse ou de la baisse du bitcoin"
+  },  
+  {
+    "question": "Quels projets en intelligence artificielle (IA) avez-vous entrepris ?",
+    "answer": "Tout d'abord ce chatbot CV. Ensuite, dans le cadre du MOOC d'Harvard j'ai eu l'occasion de travailler sur un projet de computer vision sur les panneaux de signalisation allemands et sur un projet de calcul des ratios true positive rate (sensitivité) et false positive rate (spéficité) d'un site de shopping. Enfin j'ai d'autres projets personnels en cours mettant en oeuvre le ML afin d'évaluer différentes techniques, comme la prévision de la hausse ou de la baisse du bitcoin"
+  },  
+  {
+    "question": "Pouvez-vous me dire quels projets en intelligence artificielle (IA) vous avez accomplis ?",
     "answer": "Tout d'abord ce chatbot CV. Ensuite, dans le cadre du MOOC d'Harvard j'ai eu l'occasion de travailler sur un projet de computer vision sur les panneaux de signalisation allemands et sur un projet de calcul des ratios true positive rate (sensitivité) et false positive rate (spéficité) d'un site de shopping. Enfin j'ai d'autres projets personnels en cours mettant en oeuvre le ML afin d'évaluer différentes techniques, comme la prévision de la hausse ou de la baisse du bitcoin"
   }
  ]
