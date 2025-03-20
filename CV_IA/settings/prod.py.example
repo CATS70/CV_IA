@@ -1,5 +1,0 @@
-from .base import *
-
-DEBUG = False
-CSRF_TRUSTED_ORIGINS = ['https://cfelix-ia.dev', 'https://www.cfelix-ia.dev']
-ALLOWED_HOSTS = ['www.cfelix-ia.dev']
